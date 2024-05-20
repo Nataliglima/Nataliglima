@@ -1,6 +1,6 @@
-Olá! 👋 Sou a Natalia Gomes, uma entusiasta de tecnologia apaixonada pela análise exploratória de dados!
+Olá! 👋 Sou a Natalia Gomes, uma entusiasta de tecnologia apaixonada pela análise  de dados!
 
-🔭 Desenvolvi uma proficiência sólida em análise e visualização de dados. Atualmente estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas, com foco em Python e SQL.
+🔭 Sou entusiasta na análise e visualização de dados. Atualmente estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas, com foco em Python e SQL.
 
 🌱 Estou sempre em busca de aprendizado, especialmente em áreas como SQL, GCP, LOOKER, Excel e Python. Se você tiver dúvidas 🤔 sobre esses tópicos ou quiser discutir qualquer coisa relacionada a eles, estou aqui para ajudar!
 
