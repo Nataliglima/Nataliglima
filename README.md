@@ -1,16 +1,14 @@
-### Hi there 👋
+"Olá! 👋 Sou a Natalia Gomes, uma entusiasta de tecnologia apaixonada pela análise exploratória de dados!
 
-<!--
-**Nataliglima/Nataliglima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Desenvolvi uma sólida proficiência em análise e visualização de dados. 
+Atualmente estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas, com foco em Python e SQL.
 
-Here are some ideas to get you started:
+🌱 Estou sempre em busca de aprendizado, especialmente em áreas como SQL, GCP, LOOKER, Excel e Python.
+Se você tiver dúvidas 🤔 sobre esses tópicos ou quiser discutir qualquer coisa relacionada a eles, estou aqui para ajudar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Você pode entrar em contato comigo pelo e-mail nataliadayane96@gmail.com ou me encontrar no LinkedIn ou no Kaggle.
+
+😄 Vamos nos conectar!
+
+LinkedIn: Natalia Gomes
+Kaggle: Natalia Gomes"
