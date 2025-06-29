@@ -29,7 +29,7 @@
 ## 📜 Certificações
 - Google Data Analytics Professional Certificate (em andamento)
 - Microsoft Power BI PL-300 
-- SQL for Data Science (Coursera)
+  
 
 ## 🌱 Aprendizado Contínuo
 Atualmente explorando:
